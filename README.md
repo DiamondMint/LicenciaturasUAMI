@@ -21,6 +21,6 @@ Es importante que la versión de Unity que vayan a usar tenga los módulos de An
 - OpenJDK
 - Android SDK & NDK Tools
 
-Si no los tienen instalados, simplemente selecciónalos e instalan.
+Si no los tienen instalados, simplemente selecciónalos e instala.
 
 ![image]()
