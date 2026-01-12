@@ -24,3 +24,45 @@ Es importante que la versión de Unity que vayan a usar tenga los módulos de An
 Si no los tienen instalados, simplemente selecciónalos e instala.
 
 ![image]()
+
+### Visual Studio
+Aunque no es obligatorio, se recomienda usarlo para acceder al script rápidamente.
+Puedes utilizar:
+
+- Visual Studio Community 2019
+- Visual Studio Community 2022
+
+Visual Studio debe estar correctamente instalado y configurado, y debe estar enlazado con Unity. Para hacerlo:
+
+1. Abre el instalador de Visual Studio.
+2. Selecciona la versión de Visual Studio y haz clic en Modify.
+3. Añade Game Development with Unity.
+
+![image]()
+
+4. En el proyecto de Unity en el que vayas a trabajar, ve a Edit → Preferences → External Tools → External Script Editor y selecciona la versión de Visual Studio que vas a usar.
+
+![image]()
+
+### Configuración
+
+1. API Compatibility Level → .NET 4.X o .NET Framework.
+2. Target Architecture → ARMv7 y ARM64 (si presenta errores, desactivar ARMv7).
+3. ...
+4. ...
+
+![image]()
+
+### Versiones
+
+La versión de AR Foundation y ARCore que aparecerá en el Package Manager dependerá de la versión de Unity que estén usando. Elijan la que aparezca.
+
+| Editor Version | AR Foundation Version |
+|----------------|-----------------------|
+| 2022.3+        | 5.1                   |
+| 2021.3+        | 5.1                   |
+
+
+## Diseño de interfaz o menú
+
+![image]()
