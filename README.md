@@ -1,7 +1,9 @@
 # LicenciaturasUAMI
 AR app de la Lic en Ing Química UAMI
 
-Vuforia Package is missing, you need to add the file manually in the editor of Unity. ***
+*** El paquete o SDK de Vuforia falta, es necesario agregarlo manualmente desde el editor de Unity.
+
+*** Es necesario agregar el modelo 3D a la carpeta Assets manualmente. En este repositorio no se encuentra ninguno.
 
 ## Requerimientos:
 ### Unity
@@ -66,3 +68,27 @@ La versión de AR Foundation y ARCore que aparecerá en el Package Manager depen
 ## Diseño de interfaz o menú
 
 ![image]()
+
+## Vuforia en Unity
+
+### Multiple Image Target
+
+### Crear base de datos en Vuforia
+
+### Importar base de datos en Unity
+
+### Crear el botón virtual
+
+### Diseñar el botón
+
+### Añadir modelo para AR
+
+### Script Button Manager
+
+### Agregar y referenciar Button Manager
+
+## DEMO
+
+
+
+
