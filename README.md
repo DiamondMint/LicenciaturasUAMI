@@ -90,16 +90,7 @@ Visual Studio debe estar correctamente instalado y configurado, y debe estar enl
 - Selecciona la imagen en la jerarquía y, en el inspector, cambia su configuración de imagen a «Base de datos» y selecciona la base de datos de seguimiento que creaste en el paso 1.
 - Agrega una cámara a la escena y asegúrate de que esté orientada hacia la imagen de seguimiento.
 
-
-### Crear el botón virtual
-
-### Diseñar el botón
-
 ### Añadir modelo para AR
-
-### Script Button Manager
-
-### Agregar y referenciar Button Manager
 
 ## Diseño de interfaz o menú
 
