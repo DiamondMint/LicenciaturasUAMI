@@ -129,11 +129,14 @@ Una vez que el proceso de compilación se ha completado con éxito, podrás ejec
     - https://developer.vuforia.com/home
 - Documentación de Vuforia:
     - https://developer.vuforia.com/library/
+- Vuforia Asset store:
+    - https://assetstore.unity.com/packages/templates/packs/vuforia-engine-163598
 - Tutoriales de Unity:
     - https://learn.unity.com/es
-- Asset store:
-    - https://assetstore.unity.com/packages/templates/packs/vuforia-engine-163598
-
+- Glosario de términos:
+    - https://unity.com/how-to/xr-glossary#augmented-reality-(ar)
+- Manual XR de UnityÑ
+     https://docs.unity3d.com/Manual/XR.html?ampDeviceId=6ab090b2-02dd-4359-8d7d-7f25e9defe7f&ampSessionId=1771958287492&ampTimestamp=1772045060538- 
 
 
 
