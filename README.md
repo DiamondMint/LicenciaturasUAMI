@@ -47,9 +47,13 @@ Es importante que la versión de Unity que vayan a usar tenga los módulos de An
 
 Si no los tienen instalados, simplemente selecciónalos e instala.
 
-![image]()
+<img width="974" height="695" alt="1" src="https://github.com/user-attachments/assets/61b93bcd-8578-413b-ad7e-c8cb8a7f4ea1" />
+
+<img width="1198" height="831" alt="2" src="https://github.com/user-attachments/assets/b456e6ca-6adf-457b-943c-bcbdd5b067a9" />
 
 6. Abre Unity Hub-> Crea un proyecto nuevo en 3D
+
+<img width="2045" height="1200" alt="5" src="https://github.com/user-attachments/assets/79fc609b-6722-4498-a985-c04d55c9466b" />
 
 ## Visual Studio
 Aunque no es obligatorio, se recomienda usarlo para acceder al script rápidamente.
@@ -64,13 +68,9 @@ Visual Studio debe estar correctamente instalado y configurado, y debe estar enl
 2. Selecciona la versión de Visual Studio y haz clic en Modify.
 3. Añade Game Development with Unity.
 
-![image]()
-
 4. En el proyecto de Unity en el que vayas a trabajar, ve a Edit → Preferences → External Tools → External Script Editor y selecciona la versión de Visual Studio que vas a usar.
 
-![image]()
-
-
+<img width="622" height="391" alt="14" src="https://github.com/user-attachments/assets/e52cb8d4-8e39-4143-b8bd-83125d4708f6" />
 ## Vuforia en Unity
 
 ### Multiple Image Target
@@ -80,15 +80,21 @@ Visual Studio debe estar correctamente instalado y configurado, y debe estar enl
 1.  Ve a la página de administración de Vuforia y crea una nueva base de datos de seguimiento de imágenes
 2.  Agrega la imagen que deseas utilizar como objeto de seguimiento y espera a que se procese.
 3.  Descarga el archivo de licencia de Vuforia y colócalo en la carpeta de Assets en tu proyecto de Unity.
-![image]()
+   
+<img width="802" height="761" alt="3" src="https://github.com/user-attachments/assets/8d05ef2e-d1c2-41bf-b150-04429d2b1e7c" />
    
 5.  Importa el paquete de Vuforia en tu proyecto de Unity.
+
+<img width="544" height="968" alt="6" src="https://github.com/user-attachments/assets/9344e151-4853-4b7b-b4ba-1469e0fbb1fc" />
+
+<img width="827" height="402" alt="7" src="https://github.com/user-attachments/assets/8f05d6c1-467e-4c5b-a782-56ac7e5b9da4" />
 
 ### Importar base de datos en Unity
 
 - Arrastra y suelta la imagen que agregaste en el paso 2 en la escena de Unity.
 - Selecciona la imagen en la jerarquía y, en el inspector, cambia su configuración de imagen a «Base de datos» y selecciona la base de datos de seguimiento que creaste en el paso 1.
 - Agrega una cámara a la escena y asegúrate de que esté orientada hacia la imagen de seguimiento.
+
 
 ### Añadir modelo para AR
 
@@ -99,7 +105,9 @@ Visual Studio debe estar correctamente instalado y configurado, y debe estar enl
 ## Compilar y ejecutar
 Asegúrate de tener conectado tu dispositivo móvil a tu computadora y que hayas habilitado la depuración USB en tu dispositivo. Luego, en Unity, ve a «File» > «Build Settings» y selecciona la plataforma de tu dispositivo móvil.
 
-Para compilar y ejecutar la aplicación, primero debes hacer clic en «File» y luego en «Build Settings». En la ventana que aparece, asegúrate de que la plataforma seleccionada sea la de realidad virtual que deseas utilizar.
+<img width="626" height="610" alt="13" src="https://github.com/user-attachments/assets/9c08a1aa-c041-47ce-9b19-2b2d05a1b43d" />
+
+Para compilar y ejecutar la aplicación, primero debes hacer clic en «File» y luego en «Build Settings». En la ventana que aparece, asegúrate de que la plataforma seleccionada sea la de realidad aumentada que deseas utilizar.
 
 ![image](13)
 
