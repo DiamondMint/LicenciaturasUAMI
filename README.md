@@ -1,6 +1,8 @@
 # LicenciaturasUAMI
 AR app de la Lic en Ing Química UAMI
 
+https://youtube.com/playlist?list=PLgzQ6IPRJECcmSXNISukby2RlXLKAuBHf&si=Tdzhh2nvqyoQmCcl
+
 *** El paquete o SDK de Vuforia falta, es necesario agregarlo manualmente desde el editor de Unity.
 
 *** Es necesario agregar el modelo 3D a la carpeta Assets manualmente. En este repositorio no se encuentra ninguno.
@@ -161,7 +163,7 @@ https://github.com/user-attachments/assets/c6936b24-a955-41ee-95fb-b494604b86e2
     - https://learn.unity.com/es
 - Glosario de términos:
     - https://unity.com/how-to/xr-glossary#augmented-reality-(ar)
-- Manual XR de UnityÑ
+- Manual XR de Unity
      https://docs.unity3d.com/Manual/XR.html?ampDeviceId=6ab090b2-02dd-4359-8d7d-7f25e9defe7f&ampSessionId=1771958287492&ampTimestamp=1772045060538- 
 
 
