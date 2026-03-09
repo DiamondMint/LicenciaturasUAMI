@@ -73,16 +73,29 @@ Visual Studio debe estar correctamente instalado y configurado, y debe estar enl
 <img width="622" height="391" alt="14" src="https://github.com/user-attachments/assets/e52cb8d4-8e39-4143-b8bd-83125d4708f6" />
 ## Vuforia en Unity
 
-### Multiple Image Target
+- Ve a la página de descargas de Vuforia y descarga el SDK para Unity
+
+<img width="701" height="391" alt="17" src="https://github.com/user-attachments/assets/dcf46b8f-ad67-458b-a0c3-1340f92d42be" />
+
+- En la pestanha "Planes y Licencias" elige el plan básico, genera una licencia para el mismo
+<img width="612" height="255" alt="19" src="https://github.com/user-attachments/assets/70b5cfe6-535a-468a-a314-5f33232e0b78" />
+
+<img width="435" height="303" alt="20" src="https://github.com/user-attachments/assets/877614e0-f059-4f1f-b1f6-e82ff8761270" />
+
+## Multiple Image Target
 
 ### Crear base de datos en Vuforia
 
 1.  Ve a la página de administración de Vuforia y crea una nueva base de datos de seguimiento de imágenes
-2.  Agrega la imagen que deseas utilizar como objeto de seguimiento y espera a que se procese.
-3.  Descarga el archivo de licencia de Vuforia y colócalo en la carpeta de Assets en tu proyecto de Unity.
+3.  Agrega la imagen que deseas utilizar como objeto de seguimiento y espera a que se procese.
+   <img width="390" height="288" alt="18" src="https://github.com/user-attachments/assets/03ccd0ba-ddb4-46fa-bd98-a710bde29d78" />
+   
+5.  Descarga el archivo de licencia de Vuforia y colócalo en la carpeta de Assets en tu proyecto de Unity.
    
 <img width="802" height="761" alt="3" src="https://github.com/user-attachments/assets/8d05ef2e-d1c2-41bf-b150-04429d2b1e7c" />
-   
+
+<img width="660" height="359" alt="21" src="https://github.com/user-attachments/assets/ef80a28e-1b4b-4b22-a4aa-1aa077198e62" />
+
 5.  Importa el paquete de Vuforia en tu proyecto de Unity.
 
 <img width="544" height="968" alt="6" src="https://github.com/user-attachments/assets/9344e151-4853-4b7b-b4ba-1469e0fbb1fc" />
