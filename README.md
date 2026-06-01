@@ -73,7 +73,10 @@ Visual Studio debe estar correctamente instalado y configurado, y debe estar enl
 4. En el proyecto de Unity en el que vayas a trabajar, ve a Edit → Preferences → External Tools → External Script Editor y selecciona la versión de Visual Studio que vas a usar.
 
 <img width="622" height="391" alt="14" src="https://github.com/user-attachments/assets/e52cb8d4-8e39-4143-b8bd-83125d4708f6" />
+
 ## Vuforia en Unity
+
+https://developer.vuforia.com/library/vuforia-engine/getting-started/development-environments/getting-started-vuforia-engine-unity/
 
 - Ve a la página de descargas de Vuforia y descarga el SDK para Unity
 
