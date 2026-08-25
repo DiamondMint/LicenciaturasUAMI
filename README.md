@@ -116,6 +116,24 @@ https://developer.vuforia.com/library/vuforia-engine/getting-started/development
 
 ### Añadir modelo para AR
 
+Por defecto, el modelo 3D es bastante grande, así que necesitamos reducir su tamaño.
+
+- Haz clic en el objeto de destino del modelo en el panel izquierdo y actualiza su escala en el panel derecho. Una escala X, Y y Z de 0,5 debería funcionar bien.
+
+Tras reducir su tamaño, debería verse algo así:
+
+- En esta etapa, debemos comprobar que nuestra configuración funciona correctamente antes de empezar a añadir nuestros propios recursos. Para iniciar el proyecto, haz clic en el botón de reproducción que se encuentra en la parte superior de la ventana.
+
+- Si todo está configurado correctamente, debería aparecer un modelo 3D al apuntar la imagen de referencia (cubo) a la cámara del portátil.
+
+- Puedes imprimir la imagen de referencia y armar con el archivo adjunto (pdf).
+
+- Para detener la ejecución del proyecto, haga clic de nuevo en el botón de reproducción.
+
+- Para cambiar el objeto 3D que se muestra, arrastre y suelte su modelo 3D en la carpeta "Modelos" dentro de la pestaña "Proyecto" en la parte inferior izquierda de la ventana de Unity.
+
+- Luego, arrastre ese modelo dentro de la carpeta "Model target" en el panel de jerarquía. Su nuevo modelo debería aparecer en la ventana de escena.
+
 ## Diseño de interfaz o menú
 
 ![image]()
