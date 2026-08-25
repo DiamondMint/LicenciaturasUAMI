@@ -128,11 +128,11 @@ Tras reducir su tamaño, debería verse algo así:
 
 - Puedes imprimir la imagen de referencia y armar con el archivo adjunto (pdf).
 
-- Para detener la ejecución del proyecto, haga clic de nuevo en el botón de reproducción.
+- Para detener la ejecución del proyecto, haz clic de nuevo en el botón de reproducción.
 
-- Para cambiar el objeto 3D que se muestra, arrastre y suelte su modelo 3D en la carpeta "Modelos" dentro de la pestaña "Proyecto" en la parte inferior izquierda de la ventana de Unity.
+- Para cambiar el objeto 3D que se muestra, arrastra y suelta tu modelo 3D en la carpeta "Modelos" dentro de la pestaña "Proyecto" en la parte inferior izquierda de la ventana de Unity.
 
-- Luego, arrastre ese modelo dentro de la carpeta "Model target" en el panel de jerarquía. Su nuevo modelo debería aparecer en la ventana de escena.
+- Luego, arrastra ese modelo dentro de la carpeta "Model target" en el panel de jerarquía. Tu nuevo modelo debería aparecer en la ventana de escena.
 
 ## Diseño de interfaz o menú
 
